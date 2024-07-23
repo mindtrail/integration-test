@@ -1,0 +1,8 @@
+{
+  "name": "appmixer.hubapi.crm.imports",
+  "version": "0.1.0",
+  "private": true,
+  "main": "imports.js",
+  "author": "Unfurl Team <info@unfurl.ai>",
+  "dependencies": {}
+}
