@@ -118,6 +118,12 @@ export const navItems: NavItem[] = [
     label: 'Dashboard'
   },
   {
+    title: 'Prismatic Integrations',
+    href: '/dashboard/prismatic',
+    icon: 'kanban',
+    label: 'prismatic'
+  },
+  {
     title: 'User',
     href: '/dashboard/user',
     icon: 'user',
